@@ -40,7 +40,7 @@ class Email
             $mail->SMTPAuth   = true;      
 
             $mail->Username   = "mailerapp19@gmail.com";                     // SMTP username
-            $mail->Password   = "jse6*rinx";                              // SMTP password
+            $mail->Password   = "####";                              // SMTP password
           
             //Recipients
             $mail->setFrom("mailerapp19@gmail.com", "LS NATURAL MEDICINE");
